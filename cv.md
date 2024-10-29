@@ -1,1 +1,13 @@
+# Marharyta Shyshkavets
+:round_pushpin: Gdańsk, Poland\
+:telephone_receiver: +48 123 456 789\
+:email: rita.shyshkavets@gmail.com\
+*Discord: margomint*\
+*Telegram: @Match_Rita*
 
+## Brief Self-Introduction
+I am an aspiring frontend developer with a solid foundation in HTML, CSS.
+ 
+As an aspiring programmer, my journey has been defined by the pursuit of self-directed projects, each meticulously crafted from scratch. While lacking formal experience in the field, my dedication to independent project development has equipped me with a robust skill set and a keen problem-solving mindset. Eager to apply my self-taught expertise in a professional setting, I am adapting swiftly to new challenges.
+
+**My primary goal** is to continue advancing my skills to become a capable frontend developer, contributing effectively to a team and consistently delivering high-quality, user-centered designs.
