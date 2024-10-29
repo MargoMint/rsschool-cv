@@ -23,3 +23,9 @@ As an aspiring programmer, my journey has been defined by the pursuit of self-di
 *As an entry-level developer, I’ve completed educational and personal projects:*
 
 - **Sample Project** – tech stack used HTML, SCSS, JavaScript – [GitHub repository link](https://github.com/MargoMint/myPortfolio)
+
+## Education
+- **Self-Study**: Focused studies in HTML, CSS, and JavaScript fundamentals
+- **Courses and Training**:
+   - Completed *"WEB-разработчик"* course on [Udemy](https://www.udemy.com/course/webdeveloper/?couponCode=24T6MT102824)
+   - *"Полный курс по JavaScript + React - с нуля до результата"* (In Progress) on [Udemy](https://www.udemy.com/course/javascript_full/?couponCode=24T6MT102824)
