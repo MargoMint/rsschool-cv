@@ -1,10 +1,159 @@
 * {
+  font-family: 'Segoe UI', Arial, sans-serif;
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+.page {
+  background-color: #fafafa;
+  color: #333;
+  line-height: 1.6;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
 a {
-  color: inherit;
+  color: #333;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h2 {
+  color: #8fbddf;
+}
+
+.header {
+  color: #333;
+  text-align: center;
+}
+
+.header__title {
+  text-align: center;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.nav__list {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  margin-bottom: 20px;
+  background-color: #8fbddf;
+}
+
+.nav__link {
+  color: #fafafa;
+  transition: 0.4s color;
+}
+
+.nav__link:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.intro__title {
+  display: none;
+}
+
+.intro__photo-wrapper {
+  margin-bottom: 20px;
+}
+
+.intro__photo {
+  display: block;
+  max-width: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.contacts__name {
+  font-weight: 500;
+}
+
+.contacts__item a:hover {
+  transition: 0.4s color;
+}
+
+.contacts__item a:hover {
+  color: #8fbddf;
+}
+
+.skills__list,
+.soft-skills__list,
+.contacts__list,
+.projects__list,
+.education__list,
+.languages__list {
+  list-style: disc inside;
+}
+
+.languages__name {
+  font-weight: 500;
+}
+
+.skills__category {
+  font-weight: 500;
+}
+
+.education__item {
+  text-decoration: underline;
+}
+
+.projects__item {
+  list-style-type: none;
+}
+
+.projects__name {
+  font-weight: 500;
+}
+
+.projects__link {
+  font-size: 16px;
+  font-weight: normal;
+  color: #8fbddf;
+  text-decoration: none;
+}
+
+.projects__link:hover {
+  text-decoration: underline;
+}
+
+.code-example__block {
+  background: #f4f4f4;
+  padding: 10px;
+  overflow-x: auto;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 15px;
+  border-top: 1px solid #333;
+  color: #333;
+}
+
+.footer__text {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.footer__link {
+  color: #333;
+}
+
+.footer__logo {
+  width: 30px;
+  vertical-align: middle;
 }
