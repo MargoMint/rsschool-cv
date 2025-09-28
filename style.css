@@ -154,6 +154,10 @@ section {
 }
 
 .footer__logo {
-  width: 30px;
+  width: 50px;
   vertical-align: middle;
+}
+
+.st-course__logo {
+  width: 25px;
 }
